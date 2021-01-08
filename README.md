@@ -5,29 +5,7 @@
 
 A curated list of resources dedicated to text summarization
 
-## Table of Contents
 
-* [Corpus](#corpus)
-* [Text Summarization Software](#text-summarization-software)
-* [Word Representations](#word-representations)
-  * [Word Representations for Chinese](#word-representations-for-chinese)
-  * [Evaluation of Word Embeddings](#evaluation-of-word-embeddings)
-  * [Evaluation of Word Embeddings for Chinese](#evaluation-of-word-embeddings-for-chinese)
-* [Sentence Representations](#sentence-representations)
-  * [Evaluation of Sentence Embeddings](#evaluation-of-sentence-embeddings)
-  * [Cross-lingual Sentence Representations](#cross-lingual-sentence-representations)
-  * [Evaluation of Cross-lingual Sentence Representations](#evaluation-of-cross-lingual-sentence-representations)
-* [Language Representations](#language-representations)
-* [Extractive Text Summarization](#extractive-text-summarization)
-* [Abstractive Text Summarization](#abstractive-text-summarization)
-* [Text Summarization](#text-summarization)
-* [Chinese Text Summarization](#chinese-text-summarization)
-* [Program Source Code Summarization](#program-source-code-summarization)
-* [Entity Summarization](#entity-summarization)
-* [Evaluation Metrics](#evaluation-metrics)
-* [Opinion Summarization](#opinion-summarization)
-
-## Contents
 
 ### Corpus
 
